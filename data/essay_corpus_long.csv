@@ -1,0 +1,525 @@
+wave,course,respondent_id,question_id,question_short,response
+T1,Course A,T1_A_01,Q12_balance,Q12_balance,Due to my work-life-class balance AI has helped me so much. It is able to give me fast and efficient help whenever I need. I can use it everywhere I go and study whenever I need.
+T1,Course A,T1_A_01,Q13_features,Q13_features,The features that are the best is that it has the professors guidelines and the materials he uses. Sometimes it gives problems that we have not worked on yet but it expands learning.
+T1,Course A,T1_A_01,Q14_equity,Q14_equity,I believe the AI tutor does accommodate well for the needs of all students but it gives you whatever you put into it. So the more you feed into it the more it gives.
+T1,Course A,T1_A_01,Q15_critthink,Q15_critthink,The AI tutor was able to help me visually understand concepts and lay out everything step by step. I am able to ask it anything and it will always give me some response to help guide me in the right direction.
+T1,Course A,T1_A_01,Q16_suggest,Q16_suggest,No I think it works great!
+T1,Course A,T1_A_02,Q12_balance,Q12_balance,It helps me by a lot if I don't understand a question I use AI to understand the question even more.
+T1,Course A,T1_A_02,Q13_features,Q13_features,The features that need improvements are instead of just giving you the answer it should work with you instead.
+T1,Course A,T1_A_02,Q14_equity,Q14_equity,It does accommodate the needs of all students equally.
+T1,Course A,T1_A_02,Q15_critthink,Q15_critthink,It just gives me ideas to think critically and solve problems independently.
+T1,Course A,T1_A_02,Q16_suggest,Q16_suggest,I have none.
+T1,Course A,T1_A_03,Q12_balance,Q12_balance,"If there are concepts that I'm having trouble understanding, AI helps me break down those concepts to help me better understand my task at hand. AI is immensely helpful in reducing the time taken to understand complicated concepts, also the additional examples I can ask AI to generate are definitely a plus."
+T1,Course A,T1_A_03,Q13_features,Q13_features,"When I encounter specific problems that my professor covers in the lecture, I am able to input those problems into AI for better understanding of the concepts covered in class. Sometimes, AI explains ideas that were not covered in class, therefore, I have to specifically word the prompt such that I can apply what I learned in class. Also, AI is not always correct so you always have to double check AI output."
+T1,Course A,T1_A_03,Q14_equity,Q14_equity,I think it does for the most part; AI is hugely dependent on its user so the experience may drastically differ from person to person.
+T1,Course A,T1_A_03,Q15_critthink,Q15_critthink,"If there are problems that require additional steps, say for example, a calculus problem that incorporates multiple theorems in the evaluating process, AI is great in breaking down the steps to ensure how you should approach the problem. An issue I could potentially see happening is the increased reliance on AI to solve any/all problems instead of trying to tackle the problem on your own first."
+T1,Course A,T1_A_03,Q16_suggest,Q16_suggest,I don't have any suggestions as I'm still trying to figure out how to utilize the system to the fullest.
+T1,Course A,T1_A_04,Q12_balance,Q12_balance,I would say it has not hinder but instead it has helped me.
+T1,Course A,T1_A_04,Q13_features,Q13_features,I would say when AI generates more information then is necessary it gives me the list of options/answers that I get ideas from. Another example of when AI is really helpful is when it clarifies definitions better than google would.
+T1,Course A,T1_A_04,Q14_equity,Q14_equity,Yes AI is pretty equal however I feel like on certain subjects AI needs improvements.
+T1,Course A,T1_A_04,Q15_critthink,Q15_critthink,I would say the only way it affects my ability to think critically is when I copy the text word for word.
+T1,Course A,T1_A_04,Q16_suggest,Q16_suggest,Yes they need to not have limits and regulations on them.
+T1,Course A,T1_A_05,Q12_balance,Q12_balance,social media
+T1,Course A,T1_A_05,Q13_features,Q13_features,i find ai helpful with codes meaning telling me the right codes to use in r studio.
+T1,Course A,T1_A_05,Q14_equity,Q14_equity,yes
+T1,Course A,T1_A_05,Q15_critthink,Q15_critthink,"engage in reflective problem solving, and make independent decisions"
+T1,Course A,T1_A_05,Q16_suggest,Q16_suggest,no
+T1,Course A,T1_A_06,Q12_balance,Q12_balance,They help me especially when the language for some topics is difficult. The AI can explain it simpler and that helps me understand and complete the task.
+T1,Course A,T1_A_06,Q13_features,Q13_features,"The R codes are really helpful. Being able to copy them straight into R is good. Another thing that helps is when it shows the problems step by step, rather than just giving the answer without any context."
+T1,Course A,T1_A_06,Q14_equity,Q14_equity,"I think it accommodates students equally. The only problem I can think of is that if you struggle with your vision (blindness). If the AI tutor has some audio help, then that problem is gone as well."
+T1,Course A,T1_A_06,Q15_critthink,Q15_critthink,It really helps me when working on topics outside of the lecture. It is like having a personal lecturer besides you that helps you. One example was before an exam where I made it make questions for me.
+T1,Course A,T1_A_07,Q12_balance,Q12_balance,"AI helps me when I have questions that I would like to ask the professor but since I am home or someone else it is a way for me to get answers as well as asking more questions. It also helps me when I need understanding on certain topics, and it helps by giving me easy to understand examples."
+T1,Course A,T1_A_07,Q13_features,Q13_features,"What feature I found most helpful is that when it comes to certain questions like for when I needed help with my r code it gave me more than one way to understand the question I was asking, and it showed me multiple ways to get the same response and it some cases it was easier to understand."
+T1,Course A,T1_A_07,Q14_equity,Q14_equity,In my opinion for me it accommodates to me so I do not know how it will work with other people but for me it helps by giving me examples of what I am looking for so I am assuming that this will also be the same case for othe subjects.
+T1,Course A,T1_A_07,Q15_critthink,Q15_critthink,"I believe that it has cause my understanding to elevate since it allowed me to understand faster and, in a way, it was like a head start when I was stuck since it would give me ideas that would help me continue to progress when it came to working on assignments."
+T1,Course A,T1_A_07,Q16_suggest,Q16_suggest,N/A
+T1,Course A,T1_A_08,Q12_balance,Q12_balance,"Ai tools can help me understand some concepts sometimes when I'm confused. I'm confuse very often so I often use it to enhance my knowledge and understand it better. I use Ai tools like chat=gbt because it gives very concise and understandable descriptions of the topic and the problem I'm trying to solve. Very often I would encounter a math problem in this class and I tend to look to google for help, but chat gbt overall helped me overcome some of the confusion."
+T1,Course A,T1_A_08,Q13_features,Q13_features,Some features of the Ai tutor that I found most helpful was mostly when it gave good descriptions of the topic. I dont think it requires improvement.
+T1,Course A,T1_A_08,Q14_equity,Q14_equity,I believe Ai tutor does accommodates the needs of all students equally.
+T1,Course A,T1_A_08,Q15_critthink,Q15_critthink,"It has affected my ability to think critically and solve problems independently because I'm able to understand somethings better when I'm given step by step explanations. When I was studying for r codes, I realized sometimes I would get the codes wrong so I used AI tools to help me."
+T1,Course A,T1_A_08,Q16_suggest,Q16_suggest,No suggestions.
+T1,Course A,T1_A_09,Q12_balance,Q12_balance,AI tutor helps my ability to succeed by breaking down certain aspects of a lesson that I didn't understand. I don't think it hinders me because I use it as a tool to help me do my work not have it to it for me.
+T1,Course A,T1_A_09,Q13_features,Q13_features,I think that the AI tutor is most helpful when it give each step and if you ask it to break it down more for you it will.
+T1,Course A,T1_A_09,Q14_equity,Q14_equity,I personally think that it accommodates for all students equally because if you ask it to do a specific thing then it will most likely do that for you or get somewhere close to you better understanding.
+T1,Course A,T1_A_09,Q15_critthink,Q15_critthink,"A time where it helped me learn how to do a certain lesson was when I missed class due to traveling for my sport. It helps me to understand the steps in a form that I comprehend, and then i'll do the problem on my own and then if I get anything wrong ill be able to see where I went wrong."
+T1,Course A,T1_A_09,Q16_suggest,Q16_suggest,"In my opinion, I think that it is doing just enough. Not over barring but also do under doing it."
+T1,Course A,T1_A_10,Q12_balance,Q12_balance,it helps my ability to succeed because I can understand what I need to do and ask as many questions as I need to.
+T1,Course A,T1_A_10,Q13_features,Q13_features,N/A
+T1,Course A,T1_A_10,Q14_equity,Q14_equity,I think it does because it can teach the material in different ways for you to understand.
+T1,Course A,T1_A_10,Q15_critthink,Q15_critthink,It helps walk me through the process and I think it helps me solve problems independently because I can understand every single step.
+T1,Course A,T1_A_10,Q16_suggest,Q16_suggest,N/A
+T1,Course A,T1_A_11,Q12_balance,Q12_balance,with the AI tool it helps me better understand a problem when I am either confused or don't know where to start.
+T1,Course A,T1_A_11,Q13_features,Q13_features,i find it help full that it asks questions related to the answer we are trying to get and that it communicates with me as if i am talking to someone else. i think it could improve on giving more examples relates to the problem being asked.
+T1,Course A,T1_A_11,Q14_equity,Q14_equity,"yes i think it does, everyone has it available for them and can be used at any time."
+T1,Course A,T1_A_11,Q15_critthink,Q15_critthink,"it has helped me in the aspect of finding a formula and explaining why it is the formula is use. for example, I was a bit confused on the formula with the test statistics but i asked the AI and it provided the formula and explanation which was nice."
+T1,Course A,T1_A_11,Q16_suggest,Q16_suggest,"i honestly think it is great, i dint think it needs improvements."
+T1,Course A,T1_A_12,Q12_balance,Q12_balance,"Work-life-class balance to integrate AI is helpful, it can help me with my grammar when writing essays and remind me of ways to problem solve."
+T1,Course A,T1_A_12,Q13_features,Q13_features,"The features I find most helpful is reminding me of r codes, no improvement needed."
+T1,Course A,T1_A_12,Q14_equity,Q14_equity,"Yes, it can be helpful depending on what problems students need help with."
+T1,Course A,T1_A_12,Q15_critthink,Q15_critthink,"The AI tutor helps me when needed in problems, I cannot recall a specific instance."
+T1,Course A,T1_A_12,Q16_suggest,Q16_suggest,No
+T1,Course A,T1_A_13,Q12_balance,Q12_balance,"AI ends up being a shortcut to learning the material, which I think ends up hurting the student more than helping them actually understand the material."
+T1,Course A,T1_A_13,Q13_features,Q13_features,I find the math feature the most helpful because it helps me break down the problem step by step.
+T1,Course A,T1_A_13,Q14_equity,Q14_equity,I think it does accommodates the needs of all students equally if the students know how to use it correctly.
+T1,Course A,T1_A_13,Q15_critthink,Q15_critthink,In this Statistics class we had an individual project and the math AI I was given to use helped me remember what certain concepts met and remembering RScript codes for the project.
+T1,Course A,T1_A_13,Q16_suggest,Q16_suggest,Maye shortening the databases it uses to ones that are relevant to the searches or weed out any unreliable sources in its programming.
+T1,Course A,T1_A_14,Q12_balance,Q12_balance,AI tools help my ability to manage and succeed by helping me remember concepts that I might have forgotten. They help refresh my brain.
+T1,Course A,T1_A_14,Q13_features,Q13_features,"The features that are most helpful are how straightforward it is and if there is ever confusion, it clears it up."
+T1,Course A,T1_A_14,Q14_equity,Q14_equity,I think that the AI tutor accommodates the needs of all the students equally. I don't think there is any bias.
+T1,Course A,T1_A_14,Q15_critthink,Q15_critthink,"The tutor has helped me solve problems independently. For the individual project, it helped me describe things like the value of the variance or mean."
+T1,Course A,T1_A_14,Q16_suggest,Q16_suggest,So far I think that everything is good! :)
+T1,Course B,T1_B_01,Q12_balance,Q12_balance,"With school and work, where I use a bit of coding, it definitely helps laying out a base for any project/homework that I need to get done."
+T1,Course B,T1_B_01,Q13_features,Q13_features,N/A
+T1,Course B,T1_B_01,Q14_equity,Q14_equity,I'd say it does. It answers my questions and adds extra information that is useful in case of me not understanding with the answer it gave me.
+T1,Course B,T1_B_01,Q15_critthink,Q15_critthink,It does make it easier for me to go ahead and avoid thinking of what I need to do when the AI does the work for the most part.
+T1,Course B,T1_B_01,Q16_suggest,Q16_suggest,I can't think of any suggestions for the AI tutor.
+T1,Course B,T1_B_02,Q12_balance,Q12_balance,This is the frontier of the future. AI tools designed for us will provide the best help versus being in a time crunch and just getting the answers elsewhere.
+T1,Course B,T1_B_02,Q13_features,Q13_features,So far it seems like the prompts i write don't necessarily generate clear enough answers I expected.
+T1,Course B,T1_B_02,Q14_equity,Q14_equity,I can only speak for myself as I have had a positive experience with the tutor.
+T1,Course B,T1_B_02,Q15_critthink,Q15_critthink,The worst part of doing an assignment is being stuck and having little confidence in the positing you're in but having the tutor to help shed light on issues have been good.
+T1,Course B,T1_B_02,Q16_suggest,Q16_suggest,AI tutor assignments for ever topic that can help us understand the material from different angles will be a great resource.
+T1,Course B,T1_B_03,Q12_balance,Q12_balance,"AI tools help me since with my work-life-class balance, I don't have the time available to go to tutoring centers and the AI tools are available at any time of the day rather than the certain hours for in person interaction."
+T1,Course B,T1_B_03,Q13_features,Q13_features,"The features of the AI tutor that I find most helpful is that it knows the course material and is able to explain. The features that need improvement is not giving the answer and needs a bit more work on following the prompts. For example if I were to prompt it to say: Show me how to find the answer to this problem, I would like it to generate a list of things I need to do to find the answer and for it to give hints such as (** it may be a good idea to use Theorem ... here)."
+T1,Course B,T1_B_03,Q14_equity,Q14_equity,"I feel that the AI tutor accommodates everyone equally since for the needs of each student, they can prompt it to do different things."
+T1,Course B,T1_B_03,Q15_critthink,Q15_critthink,"Using the AI tutor has definitely had a positive affect when it comes to my own critical thinking and solving problems on my own. A specific instance where it helped me was on the las AI assignment where I did the problem twice, once with the AI tutor and once without and felt that I definitely found it easier doing it the second time since I was able to fully understand the problem."
+T1,Course B,T1_B_03,Q16_suggest,Q16_suggest,"I believe that there are many things that could be done to improve these AI tutoring systems. Before I get to that though, I do want to say that I personally believe that AI tutoring is and will be extremely beneficial for both educators and students since it is accessible at any time and any place and does not carry the fear of feeling ""dumb"" when asking questions.  
+
+Improvements: 
+
+* Access to the whole textbook and being able to scan the whole textbook.
+
+* Educators input all notes and in class examples so that students can review what notes happened in class just in case they didn't fully understand.
+
+* What I mean by this is an educator could use a handwriting to text program and have the AI tutor have the master notes for the class so the tutor knows what the students might be referencing when talking about an example from class. 
+
+* A feature that the AI tutor could use is a more advanced and tailored practice exam setup. 
+
+* I have personally tried to have the AI give me a short exam to test my understanding of what I had just discussed with the AI, but it always feels a bit off and they usually solve things differently than I was taught so I believe that if the AI tutoring systems would be able to nail that it would be extremely beneficial."
+T1,Course B,T1_B_04,Q12_balance,Q12_balance,It helps explain complex terms by explaining what the questions is asking me or what a certain thing means.
+T1,Course B,T1_B_04,Q13_features,Q13_features,"I like that is has definitions from the book, and theorems. Some aspects that need improvement would be the variables it uses maybe having c for constants."
+T1,Course B,T1_B_04,Q14_equity,Q14_equity,"Yes, I feel like AI accommodates the needs of all students equally."
+T1,Course B,T1_B_04,Q15_critthink,Q15_critthink,"Sometimes it spits out the answer, it does not ask me questions to think  about the problem myself."
+T1,Course B,T1_B_04,Q16_suggest,Q16_suggest,Nothing I can think right now.
+T1,Course B,T1_B_05,Q12_balance,Q12_balance,"I never really used AI tools until the AI tutor was introduced to me in this course. From then on out, it is the only type of AI that I use and it has been very helpful in allowing me to grasp a deeper understanding of the course material that I did not quite understand during class time. However, when I do use the AI tutor, I do notice that it takes me a longer to complete a certain assignment, which results is less time for other assignments."
+T1,Course B,T1_B_05,Q13_features,Q13_features,"One of the features that I found most helpful is that it searches and pulls information directly from the book and class notes. I find this very helpful because there is less of a chance to receive an explanation that differs from what we are learning in class. I think it needs to improve in not giving the answer, but rather simply showing the steps or explaining the concept."
+T1,Course B,T1_B_05,Q14_equity,Q14_equity,I would say that it does because it is the individual student that prompts the AI allowing it to accommodate to that specific student.
+T1,Course B,T1_B_05,Q15_critthink,Q15_critthink,"It is has helped me to understand what to look for first when starting a problem and what steps should be taken after. At times when the AI gives explanations that do not go hand in hand with what was taught in class, I end up more confused then before."
+T1,Course B,T1_B_05,Q16_suggest,Q16_suggest,The AI needs to improve in not giving the direct answer right away.
+T1,Course B,T1_B_06,Q12_balance,Q12_balance,It helps me understand topics but at times it’s a bit difficult using AI to learn without getting the answers
+T1,Course B,T1_B_06,Q13_features,Q13_features,With the Stats gpt it’s nice seeing the work done in the manner it’s shown in class
+T1,Course B,T1_B_06,Q14_equity,Q14_equity,Yes
+T1,Course B,T1_B_06,Q15_critthink,Q15_critthink,When used correctly it allows me to get a hint that then lets me figure out what I need to do independently.
+T1,Course B,T1_B_06,Q16_suggest,Q16_suggest,None
+T1,Course B,T1_B_07,Q12_balance,Q12_balance,"AI tools are very helpful when performing tasks. I mainly use them to confirm answers and provide more similar problems to practice on. Additionally, they save me time by offering instant feedback."
+T1,Course B,T1_B_07,Q13_features,Q13_features,"AI tutors can provide instant answers or hints when you are verifying an answer or need help with a problem. However, some features still need improvement, as AI can occasionally provide incorrect solutions, which may confuse students."
+T1,Course B,T1_B_07,Q14_equity,Q14_equity,"AI tutors accomodate the needs of all students equally. Computer devices with internet connections are easily accessible to students, particularly in the library, and they can also access AI tutors on their mobile devices."
+T1,Course B,T1_B_07,Q15_critthink,Q15_critthink,"Having an AI tutor has been helpful for improving my ability to think critically and solve problems independently, largely because AI can adapt solutions to best suit my needs. For instance, if I ask the AI to solve a problem in a specific way — such as providing more similar examples, breaking down steps into bullet points, or explaining them in a paragraph form — it can do so effectively."
+T1,Course B,T1_B_07,Q16_suggest,Q16_suggest,I have no suggestions.
+T1,Course B,T1_B_08,Q12_balance,Q12_balance,A.I tools allow me to be more time efficient. I would say that this is the case since having access to an online tutor who can almost as helpful as an instructor gives me more of a sense of freedom.
+T1,Course B,T1_B_08,Q13_features,Q13_features,I would say that the best features of the AI tutor is how it can give you a good step by step break down on how to approach a problem. The only con that I've seen using this AI tutor is that if you are not specific enough it will give you the full solution.
+T1,Course B,T1_B_08,Q14_equity,Q14_equity,I believe that the AI tutor does a good job in accommodating every student at an equal level. I believe that this is that case because every person can ask their personal questions.
+T1,Course B,T1_B_08,Q15_critthink,Q15_critthink,"I would say if used the wrong way, it would limit our critical thinking. In this case since this is used more as a tutor I would say that it does the opposite."
+T1,Course B,T1_B_08,Q16_suggest,Q16_suggest,No suggestions yet.
+T1,Course B,T1_B_09,Q12_balance,Q12_balance,"Generally I think that AI tools can be very helpful because it can give you starting ideas when you are stuck or just need a little push. Sometimes it's very good at specific examples too. With AI being so strong, it's hard not to just ask it for how to do everything but I think that we just have to learn how to use AI more responsibly. It's a powerful learning tool rather than a homework answer generator."
+T1,Course B,T1_B_09,Q13_features,Q13_features,A very good feature that I find the most helpful is its ability to know exactly what I mean even if I give it minimal context. It's very use friendly in that I don't have to be very specific to get what I want out of it. I can ask a question in simple terms and it will respond very thoroughly.
+T1,Course B,T1_B_09,Q14_equity,Q14_equity,"I think that because of how versatile the AI can be, it seems to be able to work with any challenges. I haven't had any problems using AI"
+T1,Course B,T1_B_09,Q15_critthink,Q15_critthink,"It is very good at guiding me during problems, but at the same time it is very good at accidently giving me the answer straight up. I think that it is very eager to give me a full answer."
+T1,Course B,T1_B_09,Q16_suggest,Q16_suggest,No I think there are no improvements besides how it gives me the answers all the time
+T1,Course B,T1_B_10,Q12_balance,Q12_balance,"It both helps and hinders me in my ability to manage and succeed. I have a very busy life so using the AI does help me get through the lessons, homework, activities, etc. However, as it is helping me recall what I would need to know in order to complete the assignment, I do feel like my memory retention for courses has been impacted greatly. It already wasn't great to begin with but I can very clearly see how I'm unable to recall formulas and theorem with ease. I have started to try to fix this but it did get worse with the AI tools. I do still think its worth it as I just have to adjust to this and the benefits of having clear explanations or being told what I should know does help me be able to independently do my work."
+T1,Course B,T1_B_10,Q13_features,Q13_features,The thing I find the most helpful is that I can be told what prior knowledge I should have in order to be able to complete the problems. This is essential for me as I always have limited time to do school work or study. With this I am able to focus in on what I need to or can ask the tutor to explain to me the concepts that I may have forgotten. I also find extremely helpful that it can give me an example problem similar to what I need help with and then help me step by step. The explanations it gives me for each step helps me understand what I'm doing and why. This is something I didn't have at the beginning of the semester which is why I don't think anything really stuck with me.
+T1,Course B,T1_B_10,Q14_equity,Q14_equity,I think it does help all accommodate all students equally.
+T1,Course B,T1_B_10,Q15_critthink,Q15_critthink,I think it hindered in a way as I mentioned earlier as I'm unable to recall stuff easily but it still has a lot of good that outweighs the bad.
+T1,Course B,T1_B_10,Q16_suggest,Q16_suggest,nope no suggestions
+T1,Course B,T1_B_11,Q12_balance,Q12_balance,"Very helpful as I prefer asking questions and having them answer, verses reading a book. The AI provides immediate feedback and the custom AI provides feedback in a way that is similar to the way we are taught in class."
+T1,Course B,T1_B_11,Q13_features,Q13_features,The only improvement would be if I was able to copy and paste the question into AI and then ask questions about the step needed. When you copy and paste the question into AI it automatically walks you through the problem step by step and provides the answer at the end. The most helpful part was that the feedback was exactly like the book and the lectures. I didn't like using AI before because it seemed like it would always try to teach me a different way that I wasn't taught in class and I would end up more confused.
+T1,Course B,T1_B_11,Q14_equity,Q14_equity,"It can be a bit of a learning curve. At first I would get frustrated because I wasn't getting the responses I wanted. After playing around with it a bit and seeing how my classmates worded questions, I got the hang of it and use it quiet frequently now."
+T1,Course B,T1_B_11,Q15_critthink,Q15_critthink,"It has helped me to think critically because I can ask ""why"" instead of just memorizing that when the sample is small I use a t-distribution and when it is large I use a normal distribution. I know this was something that was gone over in class but it nice to be able to remind myself why I am doing certain steps instead of just doing them. AI provides that immediate feedback."
+T1,Course B,T1_B_11,Q16_suggest,Q16_suggest,Just prompt it to not answer questions when they are copied an pasted.
+T1,Course B,T1_B_12,Q12_balance,Q12_balance,AI tools helps me plenty of time doing homework. Looking for formulas takes forever than asking AI.
+T1,Course B,T1_B_12,Q13_features,Q13_features,The features AI tutor I find the most helpful is showing the the step by step solution to solve a problem. I also like that I can ask AI the steps without giving me the final answer.
+T1,Course B,T1_B_12,Q14_equity,Q14_equity,I feel that AI tutor accommodates the needs of all students equally because AI explains things clearly and makes sure that you understand everything.
+T1,Course B,T1_B_12,Q15_critthink,Q15_critthink,AI tutor affected my ability to think critically and solve problems independently by doin a lot of problems and showing me the steps how to do it.
+T1,Course B,T1_B_12,Q16_suggest,Q16_suggest,No.
+T1,Course B,T1_B_13,Q12_balance,Q12_balance,"I feel like they really do help with figuring out definitions and concepts, and they really help me find the steps to do a problem, but I feel sometimes that the AI has trouble explaining and if you do ask it to help with a step on a problem it skips a lot of the simple algebra that are sometimes confusing."
+T1,Course B,T1_B_13,Q13_features,Q13_features,"I found that its definitions and concepts are on point, and gives the best explanations of definitions, concepts, or steps to solve a problem. However, if I ask the tutor to solve or give a hint on a certain step of the problem it sometimes skips a lot of steps and just shows the answer, maybe I just need to engineer the prompt better."
+T1,Course B,T1_B_13,Q14_equity,Q14_equity,"Yes I do feel it accommodates all students equally, I think the only challenge with the AI tutor is that we don't have ChatGPT premium, but that will change soon."
+T1,Course B,T1_B_13,Q15_critthink,Q15_critthink,"I feel like it has helped me become quicker at solving problems independently and use my time more efficiently. Before the AI tutor I would often get stuck on a problem and then be stuck for maybe 30 minutes, but now with the AI tutor if I get stuck on a problem I can ask for a hint and that will help get me unstuck and start flowing through the problem."
+T1,Course B,T1_B_13,Q16_suggest,Q16_suggest,No suggestions that I can think of as of now.
+T1,Course B,T1_B_14,Q12_balance,Q12_balance,They helped me summarize and practice exams/examples when studying for midterms and exams. Has cut the time it takes to find questions or videos to study and then review.
+T1,Course B,T1_B_14,Q13_features,Q13_features,"Practicing examples and testing my knowledge, and to see what I need to expand on. I know for Exam 1, I uploaded my homework assignments 1 by 1 and make it create similar problems and each question I would type step by step and see if I got the answer."
+T1,Course B,T1_B_14,Q14_equity,Q14_equity,"No, for math it can be beneficial for studying, but take something like philosophy, which is more thought-provoking and personal; I feel like it would not be as useful. The same goes for typing an essay; it can definitely help with coming up with ideas and where to start, but I would not trust it to find evidence or reasoning."
+T1,Course B,T1_B_14,Q15_critthink,Q15_critthink,"I would say that for exam 1, it had me repeat the same processes repeatedly to understand how to break down the problem. Not only that, but it pointed out some key flaws in my thinking and recommended some strategies to consider."
+T1,Course B,T1_B_14,Q16_suggest,Q16_suggest,"Sometimes it would still spit out the answers even though sometimes you state it not to, and I do not want to upload homework into the AI so that it can create questions"
+T1,Course B,T1_B_15,Q12_balance,Q12_balance,The AI tools help summarize readings I have to do for other classes. Instead of having to read every single chapter I can summarize and get to finish my work on time.
+T1,Course B,T1_B_15,Q13_features,Q13_features,"I like that it summarizes the notes and if I need another explanation, it will break it down."
+T1,Course B,T1_B_15,Q14_equity,Q14_equity,"I think it does. If students don't have access to the internet at home, then they can go to the library or any other computer lab here on campus."
+T1,Course B,T1_B_15,Q15_critthink,Q15_critthink,It helps me by telling me what to start with and what method I should use to solve a problem.
+T1,Course B,T1_B_15,Q16_suggest,Q16_suggest,Sometimes I would like for it not to tell me the whole answer to a problem. That's my only concern.
+T1,Course B,T1_B_16,Q12_balance,Q12_balance,"It helps me because if I have questions or need step by step assistance I can have the AI tutor help me instead of having to wait for someone that can explain it to me in person. It helps save time because you don’t have to spend hours on a problem you don’t understand, you can get help immediately."
+T1,Course B,T1_B_16,Q13_features,Q13_features,When you ask to break down a step by step process and it explains every step
+T1,Course B,T1_B_16,Q14_equity,Q14_equity,Personally haven’t ran into any issues
+T1,Course B,T1_B_16,Q15_critthink,Q15_critthink,"If there is something I don’t understand and the AI Helps me solve it step by step with explanation, I can then reproduce this process on my own for another problem without using the AI. In the end it does help ,e understand the material and the processes better."
+T1,Course B,T1_B_16,Q16_suggest,Q16_suggest,not at this moment
+T1,Course B,T1_B_17,Q12_balance,Q12_balance,It helps by providing information quicker and if I need more clarification I can as it to rephrase it or go more into detail.
+T1,Course B,T1_B_17,Q13_features,Q13_features,That is able to explain questions and give me definitions of what I’m doing almost like a conversation with just giving me the answers
+T1,Course B,T1_B_17,Q14_equity,Q14_equity,I think it does
+T1,Course B,T1_B_17,Q15_critthink,Q15_critthink,it’s has helped expanding my learning and better understanding the course material
+T1,Course B,T1_B_17,Q16_suggest,Q16_suggest,So far so good!
+T2,Course A,T2_A_01,Q12_balance,Q12_balance,The AI tools help me because they are like a stepping stone and lead me in the right direction. The only way it could hinder me is if the AI gives me the answer before I've worked through the problem myself.
+T2,Course A,T2_A_01,Q13_features,Q13_features,So far with [course name redacted] I haven't had any issues with the AI tools that are provided.
+T2,Course A,T2_A_01,Q14_equity,Q14_equity,I feel like the AI tutor accommodates the need of all students equally because it can break down as many steps as you personally need.
+T2,Course A,T2_A_01,Q15_critthink,Q15_critthink,it has helped me because it shows you the first steps then guides you through on how to get to the final answer.
+T2,Course A,T2_A_01,Q16_suggest,Q16_suggest,"I think it's evolving at a good pace, but the [course name redacted] AI tool is really good and a great way to provide help when the teacher isn't able to at that very moment."
+T2,Course A,T2_A_02,Q12_balance,Q12_balance,Considering my work-life-class balance the use of AI tools help me so much. I am able to study more efficiently and much faster. I like that I can ask any question and break it down and learn it in seconds.
+T2,Course A,T2_A_02,Q13_features,Q13_features,My favorite feature is how it can makes quizzes and adapt to how well you know certain topics or add more questions you need help with.
+T2,Course A,T2_A_02,Q14_equity,Q14_equity,Yes I believe it can accommodate the needs of all students equally.
+T2,Course A,T2_A_02,Q15_critthink,Q15_critthink,I am able to practice problems I need help with and practice understanding the material so I am able to fully understand problems independently.
+T2,Course A,T2_A_02,Q16_suggest,Q16_suggest,"No, I think its great."
+T2,Course A,T2_A_03,Q12_balance,Q12_balance,The tools help my ability to succeed by making the assignments more organized.
+T2,Course A,T2_A_03,Q13_features,Q13_features,I liked all of the various bots! I also liked how there was many different things from the lectures.
+T2,Course A,T2_A_03,Q14_equity,Q14_equity,The AI tutor accommodates the needs of all students equally.
+T2,Course A,T2_A_03,Q15_critthink,Q15_critthink,It has helped me positively! It helped me learn how to convert the R session to a Word document for AI assignment 4.
+T2,Course A,T2_A_03,Q16_suggest,Q16_suggest,I think everything is good! :)
+T2,Course A,T2_A_04,Q12_balance,Q12_balance,"It helps me doing my work when I don’t have an instructor available. As for life part, I do not use AI tools enough to have an opinion."
+T2,Course A,T2_A_04,Q13_features,Q13_features,I find the specific GPT bots really helpful. Especially those connected towards R. It explains why we use the codes in a good way. As far as improvement I haven’t used it enough to see any problems.
+T2,Course A,T2_A_04,Q14_equity,Q14_equity,Yes I personally do.
+T2,Course A,T2_A_04,Q15_critthink,Q15_critthink,It can provide more exercises that helps me understand the concept. One instance is where I used it before an exam to make mock exams.
+T2,Course A,T2_A_04,Q16_suggest,Q16_suggest,The only I can think of is making sure that the response is actually helpful. Sometimes it provides information about concepts around the topic and not the one you want to actually learn more about.
+T2,Course A,T2_A_05,Q12_balance,Q12_balance,Helps with getting ideas.
+T2,Course A,T2_A_05,Q13_features,Q13_features,Helps with getting ideas. One improvement can be to load faster. Sometime when I say something the answer takes a while to load.
+T2,Course A,T2_A_05,Q14_equity,Q14_equity,Yes I mean AI is literally like a robot.
+T2,Course A,T2_A_05,Q15_critthink,Q15_critthink,Helps with getting ideas.
+T2,Course A,T2_A_05,Q16_suggest,Q16_suggest,no
+T2,Course A,T2_A_07,Q12_balance,Q12_balance,it helps me quite a lot for example I’m stuck on question I use it so it can break down the question for me.
+T2,Course A,T2_A_07,Q13_features,Q13_features,That it gives you solutions to your answers.
+T2,Course A,T2_A_07,Q14_equity,Q14_equity,yes I believe AI tutor accommodates the needs for all students.
+T2,Course A,T2_A_07,Q15_critthink,Q15_critthink,It hasn’t really changed how I usually solve my problems it’s more like it helps me understand it a lot more.
+T2,Course A,T2_A_07,Q16_suggest,Q16_suggest,None
+T2,Course A,T2_A_08,Q12_balance,Q12_balance,AI helps hinder my ability to succeed because it shows me step by step example of how something functions.
+T2,Course A,T2_A_08,Q13_features,Q13_features,The way it's very specific with its responses and if I needed further explanation it helped to get me to that understanding.
+T2,Course A,T2_A_08,Q14_equity,Q14_equity,"It does accommodates the needs of all students because its accessible to everyone and free, its also highly intelligent."
+T2,Course A,T2_A_08,Q15_critthink,Q15_critthink,"AI tutor has affected my ability to think critically and solve problems by giving me examples about things I'm confused about and when I'm stuck on something it makes sure to be as descriptive as possible. When I would look up how an r code functions, it helped to explain very well step by step how to get to that. I would also insert the error messages too so it indicates how to fix them."
+T2,Course A,T2_A_08,Q16_suggest,Q16_suggest,I think its all good.
+T2,Course A,T2_A_09,Q12_balance,Q12_balance,It helps me seek help outside of class or during class if I don’t understand a specific question or forget an r script code/get an r script error.
+T2,Course A,T2_A_09,Q13_features,Q13_features,I think the only thing that needs improvement is being able to save the link if you’ve uploaded images in your chat with it.
+T2,Course A,T2_A_09,Q14_equity,Q14_equity,I think it accommodates all students equally but only if all of its features are well explained by the instructor which I don’t think it is most of the time.
+T2,Course A,T2_A_09,Q15_critthink,Q15_critthink,"It helps when I’m stuck on a question and don’t know what the next step is, but it does make it hard to remember things on my own knowing I could just ask it the question."
+T2,Course A,T2_A_09,Q16_suggest,Q16_suggest,Just improving the chat feature when including images to be able to share the link.
+T2,Course A,T2_A_10,Q12_balance,Q12_balance,AI tools help me save time by quickly explaining concepts or summarizing info. But they can be a distraction if I rely on them too much.
+T2,Course A,T2_A_10,Q13_features,Q13_features,The step-by-step help and instant feedback are most helpful like in math problems. It could improve at understanding questions better.
+T2,Course A,T2_A_10,Q14_equity,Q14_equity,Not always. Some students may struggle if they’re not good at asking clear questions or if English isn’t their first language.
+T2,Course A,T2_A_10,Q15_critthink,Q15_critthink,"One time it helped me catch a math mistake by asking the right questions. But when I used it too much for writing, I struggled to think on my own."
+T2,Course A,T2_A_10,Q16_suggest,Q16_suggest,No
+T2,Course A,T2_A_11,Q12_balance,Q12_balance,"If I'm under a time crunch, AI helps me to consolidate my time better such that I can break down concepts and rapidly tackle problems with more precision."
+T2,Course A,T2_A_11,Q13_features,Q13_features,"I think the AI tutor is hugely dependent on the script it was created on initially; a more tailored, complete script would definitely help cater to the individuals' uses."
+T2,Course A,T2_A_11,Q14_equity,Q14_equity,I do not think AI accommodates the needs of students equally because not all students are equal; I would say that the basic makings of example prompts should be taught before anything else.
+T2,Course A,T2_A_11,Q15_critthink,Q15_critthink,"Sometimes the AI tutor incorporates methods of solving problems that are not so equivalent to a professor's teachings. I think it helps generate more trains of thought to better understand the concepts at hand; for example, in my Calculus 2 course, I sometimes ask the AI to guide me in the right direction of tackling certain problems. My class notes lead me in other directions, oftentimes different from what the AI generates, therefore it takes a longer time for me to try to understand a nuanced approach (AI approach)."
+T2,Course A,T2_A_11,Q16_suggest,Q16_suggest,"I don't have any recommendations for the utilization of AI tutoring systems, though in the future, HSI-1 could have a more standardized model to utilize for all classes. This will probably take a lot of trial and error, not to mention more unbiased surveys from the students. I believe the model will never be perfect and will always need constant adjustment from the faculty; on the positive side of things, AI will continue to evolve to meet each and every persons' needs."
+T2,Course A,T2_A_12,Q12_balance,Q12_balance,AI tools are able to help me with grammar when writing papers and explaining concepts I don't understand fully
+T2,Course A,T2_A_12,Q13_features,Q13_features,"Grammar checks, features that need improvement is access, can't open certain links on AI tutor for custom gpt's"
+T2,Course A,T2_A_12,Q14_equity,Q14_equity,I feel the AI Tutor accommodates all students needs equally
+T2,Course A,T2_A_12,Q15_critthink,Q15_critthink,It provides a different POV and to think in a different way but I don't use it often as to come to my own conclusions
+T2,Course A,T2_A_12,Q16_suggest,Q16_suggest,N/A
+T2,Course B,T2_B_01,Q12_balance,Q12_balance,ai tools help me succeed because of th ease of access and how quickly i can get help
+T2,Course B,T2_B_01,Q13_features,Q13_features,i like how well formatted and organized the ai forms the responses. it is not confusing in any way so i can follow along. and i can ask for clarification and it will give a detailed response
+T2,Course B,T2_B_01,Q14_equity,Q14_equity,i feel like it can accomodate for every student equally
+T2,Course B,T2_B_01,Q15_critthink,Q15_critthink,sometimes the ai gives more information than i ask it so i have to specifically ask it to not give certain information
+T2,Course B,T2_B_01,Q16_suggest,Q16_suggest,none
+T2,Course B,T2_B_02,Q12_balance,Q12_balance,"If I use AI tools to teach myself a concept it takes up a lot of my time, but when I use it to better understand a concept I get things done faster. To me, it really depends on how I use it and how well I already understand the concept."
+T2,Course B,T2_B_02,Q13_features,Q13_features,"I find it most helpful that I can ask it any question I have without having to feel judged. Due to this, I get any doubts cleared and understand the concept better."
+T2,Course B,T2_B_02,Q14_equity,Q14_equity,I feel it does since it adapts to each student’s needs depending on how it is prompted.
+T2,Course B,T2_B_02,Q15_critthink,Q15_critthink,"It helps me understand concepts better but it takes me a while to complete assignments because at times I am so confused that I basically have to teach myself the concepts again. This frustrates me and after a while I just want to get the assignment done, whether I understand it or not."
+T2,Course B,T2_B_02,Q16_suggest,Q16_suggest,Improve the AI’s ability to not spit out answers right away but rather continue to help the student out step by step.
+T2,Course B,T2_B_03,Q12_balance,Q12_balance,I think it should be optional because sometimes I feel like it takes much more time to do the assignment when using the AI for every single question is a requirement
+T2,Course B,T2_B_03,Q13_features,Q13_features,It’s helpful that it can provide guidance steps and pull notes from the book
+T2,Course B,T2_B_03,Q14_equity,Q14_equity,Yes
+T2,Course B,T2_B_03,Q15_critthink,Q15_critthink,Sometimes it’s still too confusing so I use YouTube videos to help
+T2,Course B,T2_B_03,Q16_suggest,Q16_suggest,N/A
+T2,Course B,T2_B_04,Q12_balance,Q12_balance,It helps me succeed in terms of minimizing ways to set up studying times and asking concept questions
+T2,Course B,T2_B_04,Q13_features,Q13_features,The questions that it replicates and gives you different senarios
+T2,Course B,T2_B_04,Q14_equity,Q14_equity,n/a
+T2,Course B,T2_B_04,Q15_critthink,Q15_critthink,"Yes, and if I have a concern, it gives a straightforward answer and gives easy examples to follow and understand"
+T2,Course B,T2_B_04,Q16_suggest,Q16_suggest,n/a
+T2,Course B,T2_B_05,Q12_balance,Q12_balance,AI tools helped me do homework faster.
+T2,Course B,T2_B_05,Q13_features,Q13_features,What I find the most helpful is that AI shows step by step solutions and it is simple to follow.
+T2,Course B,T2_B_05,Q14_equity,Q14_equity,I feel like AI tutor accommodates the needs of all students equally because every student has an access to it.
+T2,Course B,T2_B_05,Q15_critthink,Q15_critthink,AI tutor has affected my ability to solve problems independently because I can practice as much as I can with the help of AI.
+T2,Course B,T2_B_05,Q16_suggest,Q16_suggest,None
+T2,Course B,T2_B_06,Q12_balance,Q12_balance,Helps me to catch up when I’m behind on materials. Especially GPTs curated for specific chapters.
+T2,Course B,T2_B_06,Q13_features,Q13_features,I have low confidence that the tutor is providing explanations like the professor.
+T2,Course B,T2_B_06,Q14_equity,Q14_equity,Yes
+T2,Course B,T2_B_06,Q15_critthink,Q15_critthink,-
+T2,Course B,T2_B_06,Q16_suggest,Q16_suggest,None
+T2,Course B,T2_B_07,Q12_balance,Q12_balance,"Considering my work-life-class balance, AI tools help me a ton since it is always available at any time and it is very difficult for me time-wise to go in person to other assistance offered to me."
+T2,Course B,T2_B_07,Q13_features,Q13_features,"The features of the AI tutor that I found most helpful is that when it has the full answer and explanation, it can explain it well to me, but if it doesnt fully have everything it may struggle and get stuck. 
+
+Ex: 
+
+------------------------------------------
+🎯 Step 4: Variance of nX(1)n X_{(1)}nX(1)​
+------------------------------------------
+
+We also know that for an exponential distribution:
+
+Var(X(1))=1(nλ)2\text{Var}(X_{(1)}) = \frac{1}{(n\lambda)^2}Var(X(1)​)=(nλ)21​
+
+So:
+
+Var(nX(1))=n2⋅1(nλ)2=1λ2\text{Var}(n X_{(1)}) = n^2 \cdot \frac{1}{(n\lambda)^2} = \frac{1}{\lambda^2}Var(nX(1)​)=n2⋅(nλ)21​=λ21​
+
+(Wait! This seems off — let's re-check it more carefully.)
+
+Wait! Actually:
+
+Var(X(1))=1(nλ)2soVar(nX(1))=n2⋅1(nλ)2=n2n2λ2=1λ2\text{Var}(X_{(1)}) = \frac{1}{(n\lambda)^2} \quad \text{so} \quad \text{Var}(n X_{(1)}) = n^2 \cdot \frac{1}{(n\lambda)^2} = \frac{n^2}{n^2 \lambda^2} = \frac{1}{\lambda^2}Var(X(1)​)=(nλ)21​soVar(nX(1)​)=n2⋅(nλ)21​=n2λ2n2​=λ21​
+
+🤯 Oops! Wait again — we must be careful. That would be the variance of nX(1)nX_{(1)}nX(1)​ staying constant, not shrinking.
+
+But in the review answer, we’re given:
+
+Var(nX(1))=1λ2n\text{Var}(n X_{(1)}) = \frac{1}{\lambda^2 n}Var(nX(1)​)=λ2n1​
+
+So what’s the correct version?
+
+Let’s actually re-calculate using this:
+
+------------------------------------------------------------
+🔎 Real answer for Var(nX(1))\text{Var}(n X_{(1)})Var(nX(1)​)
+------------------------------------------------------------
+
+If X(1)∼Exponential(nλ)X_{(1)} \sim \text{Exponential}(n\lambda)X(1)​∼Exponential(nλ), then:
+
+*
+
+E[X(1)]=1nλ\mathbb{E}[X_{(1)}] = \frac{1}{n\lambda}E[X(1)​]=nλ1​
+
+*
+
+Var(X(1))=1(nλ)2\text{Var}(X_{(1)}) = \frac{1}{(n\lambda)^2}Var(X(1)​)=(nλ)21​
+
+Then multiply both mean and variance by nnn:
+
+*
+
+E[nX(1)]=n⋅1nλ=1λ\mathbb{E}[n X_{(1)}] = n \cdot \frac{1}{n\lambda} = \frac{1}{\lambda}E[nX(1)​]=n⋅nλ1​=λ1​
+
+*
+
+Var(nX(1))=n2⋅1(nλ)2=n2n2λ2=1λ2\text{Var}(n X_{(1)}) = n^2 \cdot \frac{1}{(n\lambda)^2} = \frac{n^2}{n^2 \lambda^2} = \frac{1}{\lambda^2}Var(nX(1)​)=n2⋅(nλ)21​=n2λ2n2​=λ21​
+
+✅ So this is correct — the variance of nX(1)n X_{(1)}nX(1)​ is constant: 1λ2\frac{1}{\lambda^2}λ21​
+
+But in the review sheet from Dr. Y, it says:
+
+Var(nX(1))=1λ2n\text{Var}(nX_{(1)}) = \frac{1}{\lambda^2 n}Var(nX(1)​)=λ2n1​
+
+Hmm... That would be the variance of Xˉ\bar{X}Xˉ, not nX(1)n X_{(1)}nX(1)​. I believe the notes may have a typo there. Let me verify this in a second message."
+T2,Course B,T2_B_07,Q14_equity,Q14_equity,Yes I do feel that the AI tutor accommodates the needs of all students equally since it also understands other languages as well and does not discriminate or judge.
+T2,Course B,T2_B_07,Q15_critthink,Q15_critthink,"It has definitely helped me be able to think critically, typically after spending a while with the AI tutor I find out how easy the problem actually was and I just didn't understand the concepts fully."
+T2,Course B,T2_B_07,Q16_suggest,Q16_suggest,Id say that one of the best things that could be done are to have a step by step solution for every problem if possible so that the AI tutor wont contradict itself and perhaps ask the students a few questions about what they do know about the subject if they are just completely lost on how to start a problem instead of just showing the whole answer.
+T2,Course B,T2_B_08,Q12_balance,Q12_balance,They definitely help me succeed by allowing me to get past roadblocks in my memory that prevent me from working through a problem quickly.
+T2,Course B,T2_B_08,Q13_features,Q13_features,"I found that how it doesn't give me the full solution to be very helpful because it becomes like a step by step guide, but I do feel that its explanation to the solutions skip a lot of steps when you are ready to see the final answer."
+T2,Course B,T2_B_08,Q14_equity,Q14_equity,Yes I do feel it accomodates everyone equally.
+T2,Course B,T2_B_08,Q15_critthink,Q15_critthink,"It has definitely helped me many times get past a roadblock in many problems especially when I'm just stuck, however I have noticed I always use it to help me get unstuck on a problem. I especially notice that I want to use it to help me get unstuck on problems on tests, but then its not there for me to use."
+T2,Course B,T2_B_08,Q16_suggest,Q16_suggest,Maybe tell it to not skip steps and definitely elaborate more.
+T2,Course B,T2_B_09,Q12_balance,Q12_balance,ChatGPT helps understand complex topics by explaining them in simple terms
+T2,Course B,T2_B_09,Q13_features,Q13_features,"I like when I ask about a certain theorems and it gives me the formulas that I need, so I don’t have to waste time looking for the formulas in the book. I think the features that need improvement maybe have like visuals and going into detail with every step and also learning how to ask the right questions."
+T2,Course B,T2_B_09,Q14_equity,Q14_equity,Yes
+T2,Course B,T2_B_09,Q15_critthink,Q15_critthink,At the beginning it would just give the answers but once’s the professor fixed it has helped me think more about the problems.
+T2,Course B,T2_B_09,Q16_suggest,Q16_suggest,No
+T2,Course B,T2_B_10,Q12_balance,Q12_balance,AI is helpful when I have questions outside of office hours and late night studying.
+T2,Course B,T2_B_10,Q13_features,Q13_features,"I came across a question with the last version that the bot could answer because it had the solution but it could not explain the solution to me. After arguing with it, I gave up and asked Dr. Y and he was able to explain."
+T2,Course B,T2_B_10,Q14_equity,Q14_equity,"I feel it accommodates everyone equally. At first I struggled to learned how to ask the right questions but after going over how to ask questions in class, everything has been great."
+T2,Course B,T2_B_10,Q15_critthink,Q15_critthink,If I get the same result as the AI then I ask it to elaborate on certain steps or help point out how I can recognize the type of problem and the method of solution faster. If I don't get the same results as the AI I have it explain where I went wrong.
+T2,Course B,T2_B_10,Q16_suggest,Q16_suggest,No suggestions
+T2,Course B,T2_B_11,Q12_balance,Q12_balance,It helps the work part happen faster and less stressful
+T2,Course B,T2_B_11,Q13_features,Q13_features,It has the notes and pretty well detailed explanations.
+T2,Course B,T2_B_11,Q14_equity,Q14_equity,It does
+T2,Course B,T2_B_11,Q15_critthink,Q15_critthink,For myself it allows me to work at my own pace and the answers it gave were helpful.
+T2,Course B,T2_B_11,Q16_suggest,Q16_suggest,for the AI assignments have the questions be a pdf by itself. For the exam 2 AI assignment I asked for one question and it only gave me part of it
+T2,Course B,T2_B_12,Q12_balance,Q12_balance,AI is a great tool to help me manage and succeed in my courses as it provides instant feedback.
+T2,Course B,T2_B_12,Q13_features,Q13_features,"I find personalizing your own AI chatbot to be the most helpful AI feature, as it allows you to customize your own tutor, covering only subjects you choose, and ask it to solve certain problems in a specific way."
+T2,Course B,T2_B_12,Q14_equity,Q14_equity,"The AI tutor accommodates the majority of student needs equally. However, some students are visual learners, and AI chatbots tend to struggle in this area"
+T2,Course B,T2_B_12,Q15_critthink,Q15_critthink,"AI tutors are very helpful for providing similar problems, allowing me to practice in areas where I struggle. However, one issue is that they sometimes give the full solution upfront, even when programmed/asked to provide steps one at a time."
+T2,Course B,T2_B_12,Q16_suggest,Q16_suggest,"It would be more beneficial if AI tutoring systems improved their ability to provide visual aids like graphs, charts, and diagrams."
+T2,Course B,T2_B_13,Q12_balance,Q12_balance,They help me catch up on topic I may have missed from lectures.
+T2,Course B,T2_B_13,Q13_features,Q13_features,I enjoy the steps and what chapter I can go to for extra information.
+T2,Course B,T2_B_13,Q14_equity,Q14_equity,I think it does accommodate the needs.
+T2,Course B,T2_B_13,Q15_critthink,Q15_critthink,It helps me by giving the steps so if my answer is wrong I can go to where I messed up on.
+T2,Course B,T2_B_13,Q16_suggest,Q16_suggest,none at this moment
+T2,Course B,T2_B_14,Q12_balance,Q12_balance,Helps me recall material and helps me manage my time
+T2,Course B,T2_B_14,Q13_features,Q13_features,The step by step and definitions
+T2,Course B,T2_B_14,Q14_equity,Q14_equity,Yes it’s helped my helping me understand things and what the problem is asking
+T2,Course B,T2_B_14,Q15_critthink,Q15_critthink,It’s help so much when I don’t know how to set up things and why they are done that way
+T2,Course B,T2_B_14,Q16_suggest,Q16_suggest,It is great
+T3,Course A,T3_A_01,Q12_balance,Q12_balance,AI tools have help me better understand the subject I've been taught in any course. especially statistic since AI Tutor is a stat generated GPT it has shown me the step and if I have any questions is gives me the necessary information and more.
+T3,Course A,T3_A_01,Q13_features,Q13_features,"i really like that R-Studio feature the most help full, at first i didn't know how to deal with R but by the end of the course AI tutor has taught me they all that codes the professor showed that i forgot."
+T3,Course A,T3_A_01,Q14_equity,Q14_equity,yes it is pretty fair.
+T3,Course A,T3_A_01,Q15_critthink,Q15_critthink,i would say AI tutor has a positive impact to thinking critically and solve problems independently because the ai always gives back-up question to follow up on the question previously asked.
+T3,Course A,T3_A_01,Q16_suggest,Q16_suggest,no i would say the AI tutoring system is AWESOME.
+T3,Course A,T3_A_02,Q12_balance,Q12_balance,I use it as a tool to help me with r codes
+T3,Course A,T3_A_02,Q13_features,Q13_features,I really don’t know
+T3,Course A,T3_A_02,Q14_equity,Q14_equity,Yes
+T3,Course A,T3_A_02,Q15_critthink,Q15_critthink,It helped me by giving me feedback
+T3,Course A,T3_A_02,Q16_suggest,Q16_suggest,No
+T3,Course A,T3_A_03,Q12_balance,Q12_balance,AI tools help me by remembering certain steps from the lesson that I missed. Or if I missed a class due to sports traveling it helped me catch up too.
+T3,Course A,T3_A_03,Q13_features,Q13_features,I thought the R studio and hypothesis testing features were great and the same exact thing as what we learned in class.
+T3,Course A,T3_A_03,Q14_equity,Q14_equity,Yes I think that it can make altercations for any student.
+T3,Course A,T3_A_03,Q15_critthink,Q15_critthink,"It has helped me think critically becuase it won’t give you the fully answer, but it will help you get there."
+T3,Course A,T3_A_03,Q16_suggest,Q16_suggest,I think that it is a great tool and was very helpful this semesters. I don’t think it needs any improvements.
+T3,Course A,T3_A_04,Q12_balance,Q12_balance,They help by making all the explanations to questions organized and clear.
+T3,Course A,T3_A_04,Q13_features,Q13_features,I found all of the different bots helpful. I thought all of the options for specific things such as the design of experiments bot were very great.
+T3,Course A,T3_A_04,Q14_equity,Q14_equity,The AI tutor does accommodate to the needs of all students equally.
+T3,Course A,T3_A_04,Q15_critthink,Q15_critthink,The AI tutor has heled my ability to think critically. The AI tutor helped me explain some things when I did the ANOVA and Duncan tests analysis when I did my group project.
+T3,Course A,T3_A_04,Q16_suggest,Q16_suggest,I think everything was great! :)
+T3,Course A,T3_A_05,Q12_balance,Q12_balance,"They help my ability to manage and succeed because I am able to ask questions however I wish until I understand a concept, allowing me to grasp the material where I have troubles."
+T3,Course A,T3_A_05,Q13_features,Q13_features,I don't have specific examples but I do find the R code inputs to be very effective.
+T3,Course A,T3_A_05,Q14_equity,Q14_equity,I do believe that it accommodates the needs of all students equally as it allows us to ask questions we understand and continue until we have understanding results.
+T3,Course A,T3_A_05,Q15_critthink,Q15_critthink,"It has helped remind me of concepts to use throughout the course, therefore enhancing my ability to solve problems independently."
+T3,Course A,T3_A_05,Q16_suggest,Q16_suggest,N/A
+T3,Course A,T3_A_06,Q12_balance,Q12_balance,Ai tools helped hinder my ability to manage and succeed because it gave me the bases to how to understand a specific topic in the classroom. I definitely feel like I've learned a lot from it and practiced a lot to get where I am today. Despite the doubts I had because my other classes were taking a tole on me I still managed to keep up and understand somewhat with the help of this Ai tool.
+T3,Course A,T3_A_06,Q13_features,Q13_features,I found that it explains every step in the statistical math problems that were asked in the assignments. I learned and practiced with the help of that.
+T3,Course A,T3_A_06,Q14_equity,Q14_equity,Yes the AI tutor did accommodate my needs and everyone else's because it seemed to help everyone in the class room succeed.
+T3,Course A,T3_A_06,Q15_critthink,Q15_critthink,I could ask it to provide me with practice questions and thats the way I practiced for the final exam.
+T3,Course A,T3_A_06,Q16_suggest,Q16_suggest,No suggestions
+T3,Course A,T3_A_07,Q12_balance,Q12_balance,It help speed up the process when it came to assignments as well as personal plans.
+T3,Course A,T3_A_07,Q13_features,Q13_features,It was very helpful because it was class specific.
+T3,Course A,T3_A_07,Q14_equity,Q14_equity,Yes
+T3,Course A,T3_A_07,Q15_critthink,Q15_critthink,It help speed up the process when it came to assignments as well as personal pl
+T3,Course A,T3_A_07,Q16_suggest,Q16_suggest,N/A
+T3,Course A,T3_A_08,Q12_balance,Q12_balance,They help me understand a subject better it explains it in part which is why I like it.
+T3,Course A,T3_A_08,Q13_features,Q13_features,That it breaks down everything not just giving you the answer it helps you understand.
+T3,Course A,T3_A_08,Q14_equity,Q14_equity,Yes it does accommodate students needs.
+T3,Course A,T3_A_08,Q15_critthink,Q15_critthink,It hasn’t affected my ability to think critically.
+T3,Course A,T3_A_08,Q16_suggest,Q16_suggest,None
+T3,Course A,T3_A_09,Q12_balance,Q12_balance,AI helps me compartmentalize the question at hand to effectively utilize my time.
+T3,Course A,T3_A_09,Q13_features,Q13_features,I found the R tutor most helpful but at times I felt the code written was a little more than what was needed as the in class examples required much simpler versions of the codes.
+T3,Course A,T3_A_09,Q14_equity,Q14_equity,I do not think AI accommodates the needs of all students equally; I think a student's effectiveness at utilizing prompts determines the quality of a student's experience with AI.
+T3,Course A,T3_A_09,Q15_critthink,Q15_critthink,"At times I would find myself leaning on AI too much; if I needed to solve a problem for a test, I would find myself lacking the critical thinking needed to tackle certain problems."
+T3,Course A,T3_A_09,Q16_suggest,Q16_suggest,I think the school is leaning the right way in introducing AI to the students and faculty; incorporating the feedback of the students and faculty will really help tailor AI to fulfill their needs.
+T3,Course A,T3_A_10,Q12_balance,Q12_balance,Helps me get my homework done faster because I can understand the concepts faster.
+T3,Course A,T3_A_10,Q13_features,Q13_features,The r script tutor was the most helpful with reminding me for r codes. Using it for studying it when it generates questions from a study guide gets challenging when it gives you questions not related to what we actually learned.
+T3,Course A,T3_A_10,Q14_equity,Q14_equity,"Yes, if you are taught how to use /prompt the tool."
+T3,Course A,T3_A_10,Q15_critthink,Q15_critthink,It makes it harder to want to actually learn the material when you know you can just search up the answer.
+T3,Course A,T3_A_10,Q16_suggest,Q16_suggest,Make sure the scope of what it can generate is limited to what you actually need it for so it doesn't generate things you don't need.
+T3,Course A,T3_A_11,Q12_balance,Q12_balance,Helps me make plans and also summarise bigger things.
+T3,Course A,T3_A_11,Q13_features,Q13_features,The one that helps you with your R codes.
+T3,Course A,T3_A_11,Q14_equity,Q14_equity,"Yes, everyone gets the opportunity to have a “personal instructor” outside of class."
+T3,Course A,T3_A_11,Q15_critthink,Q15_critthink,"Yes, when preparing for exams"
+T3,Course A,T3_A_11,Q16_suggest,Q16_suggest,Just keep making sure that they are consistent
+T3,Course A,T3_A_12,Q12_balance,Q12_balance,It helps give me ideas.
+T3,Course A,T3_A_12,Q13_features,Q13_features,I find how quick it is is useful. I think it needs to improve it’s information sometimes it is outdated
+T3,Course A,T3_A_12,Q14_equity,Q14_equity,Yes it is equal
+T3,Course A,T3_A_12,Q15_critthink,Q15_critthink,I don’t have to think if I search up a math problem i can see the answer
+T3,Course A,T3_A_12,Q16_suggest,Q16_suggest,Not of as right now
+T3,Course A,T3_A_13,Q12_balance,Q12_balance,I did not connect my HSI-1 account to ChatGPT so it hindered my ability to do certain assignments.
+T3,Course A,T3_A_13,Q13_features,Q13_features,Most helpful was the explanations
+T3,Course A,T3_A_13,Q14_equity,Q14_equity,Yes
+T3,Course A,T3_A_13,Q15_critthink,Q15_critthink,It helped me when comping up for reasons why certain formulas work and some don't
+T3,Course A,T3_A_13,Q16_suggest,Q16_suggest,N/A
+T3,Course B,T3_B_01,Q12_balance,Q12_balance,"Considering my work-life-class balance, AI tools definitely help since it is accessible at any time any day."
+T3,Course B,T3_B_01,Q13_features,Q13_features,"The features that I find most helpful is its availability and its positivity when explaining and its positivity even when having to explain something multiple times. Something that needs improvement is the applicability of the AI tutor, I feel that there should be a better/clearer way to use the AI tutor during lecture while giving students time to use it as well."
+T3,Course B,T3_B_01,Q14_equity,Q14_equity,"Yes, since it cannot treat you differently and can even communicate in different languages."
+T3,Course B,T3_B_01,Q15_critthink,Q15_critthink,Yes it has helped me especially when it came to hypothesis testing and identifying what our hypothesis was.
+T3,Course B,T3_B_01,Q16_suggest,Q16_suggest,"It would be helpful if there were more assignments  with tutor assistance but less questions on each assignment. Ex: Having 10 AI assisted assignments throughout the course 1 every friday except the first week, last week, or test weeks with about 3-4 questions each assignment in order for students to keep that familiarity with using the tool and so that students can have weekly practice with problems as well instead of having only a few large question assignments."
+T3,Course B,T3_B_02,Q12_balance,Q12_balance,They help with helping me understand different methods of solving one question or assignment.
+T3,Course B,T3_B_02,Q13_features,Q13_features,I find the use of being able to pull any information from the book from the AI is useful.
+T3,Course B,T3_B_02,Q14_equity,Q14_equity,I have not found any challenges.
+T3,Course B,T3_B_02,Q15_critthink,Q15_critthink,"It has sometimes become a tool of reliance, where I may not think or need to think about how to solve the question anymore."
+T3,Course B,T3_B_02,Q16_suggest,Q16_suggest,Less straightforward answering maybe.
+T3,Course B,T3_B_03,Q12_balance,Q12_balance,It allows for my time to be more efficient.
+T3,Course B,T3_B_03,Q13_features,Q13_features,The ability to bring back terms or concepts discussed in earlier chapters
+T3,Course B,T3_B_03,Q14_equity,Q14_equity,yes I would say that everyone benefits from this in some way
+T3,Course B,T3_B_03,Q15_critthink,Q15_critthink,It helps me as it serves as a very useful tool
+T3,Course B,T3_B_03,Q16_suggest,Q16_suggest,I would say that at times it wouldn’t talk about the right example
+T3,Course B,T3_B_04,Q12_balance,Q12_balance,It makes things easier
+T3,Course B,T3_B_04,Q13_features,Q13_features,Adding notes and books into the GPT is most helpful.
+T3,Course B,T3_B_04,Q14_equity,Q14_equity,Yes
+T3,Course B,T3_B_04,Q15_critthink,Q15_critthink,Not really
+T3,Course B,T3_B_04,Q16_suggest,Q16_suggest,Give the class the pdf for the assignment as well. For the assignment where the GPT only had the file there were times I wouldn’t get the full question
+T3,Course B,T3_B_05,Q12_balance,Q12_balance,AI tools have improved my ability to manage tasks and succeed by acting as a tutor that provides quick feedback and practice problems to work through.
+T3,Course B,T3_B_05,Q13_features,Q13_features,"An AI tutor can be utilized at the user's convenience. However, the provided instructions aren’t always followed. Sometimes, when you ask for a specific method, it doesn’t adhere to the request. It may also fail to explain the process fully, offering shortcut methods instead—even when explicitly asked to avoid doing so."
+T3,Course B,T3_B_05,Q14_equity,Q14_equity,"The AI tutor accommodates the needs of most students. Many benefit from AI tutoring, but others may not learn effectively because they can abuse the system—simply receiving answers instead of engaging in the learning process."
+T3,Course B,T3_B_05,Q15_critthink,Q15_critthink,The AI tutor improved my ability to think critically and solve problems independently by providing detailed step-by-step processes and examples of similar problems. This has given me more confidence in solving problems.
+T3,Course B,T3_B_05,Q16_suggest,Q16_suggest,none
+T3,Course B,T3_B_06,Q12_balance,Q12_balance,It helps me by its way of the convenience of using and having accurate information whenever I feel like working on schoolwork.
+T3,Course B,T3_B_06,Q13_features,Q13_features,I can find no issue with features at present.
+T3,Course B,T3_B_06,Q14_equity,Q14_equity,OpenAI is accessible and offers many ways to use its product. So far it accommodates my needs. I can't speak for another.
+T3,Course B,T3_B_06,Q15_critthink,Q15_critthink,It particularly helps me to identify and connect theorems to the material I'm requesting assistance with.
+T3,Course B,T3_B_06,Q16_suggest,Q16_suggest,None suggestions at this time.
+T3,Course B,T3_B_07,Q12_balance,Q12_balance,"I feel that AI tools did help my work-life-class balance because it helped me get through problems quicker and helped me get unstuck when I was stuck on problems. Also, I am a student who loves checking each step and checking the full question with answer key or solution and checking with chatGPT really helps me with that. I do have to say it has hindered my ability to think on my own at times, and if I didn't have the AI tutor if I got stuck I wouldn't know how to move forward."
+T3,Course B,T3_B_07,Q13_features,Q13_features,"I found the AI's abilities to only provide small hints and partial steps really useful in helping me learn, however it does get really confused when you ask it to reference a certain question or even when you give it a question sometimes it thinks you are doing a completely different question."
+T3,Course B,T3_B_07,Q14_equity,Q14_equity,"No I feel it all accommodates students equally now that we have access to chat GPT premium before I felt that I had to have chatGPT premium to fully use the AI tutor, but now its equal."
+T3,Course B,T3_B_07,Q15_critthink,Q15_critthink,I do feel that overtime it definitely has hindered my ability to think critically because there is an ai tutor crutch that I can use whenever I get stuck. Instead of genuinely thinking of how to get unstuck on a problem and therefore learning in the process I have a tendency to use the tutor and skipping that critical thinking completely.
+T3,Course B,T3_B_07,Q16_suggest,Q16_suggest,No suggestion here besides improving how it references questions so when we ask for a certain question it produces the right question or answers the right question.
+T3,Course B,T3_B_08,Q12_balance,Q12_balance,AI helps me in school by explaining what questions are asking or explaining complex subjects
+T3,Course B,T3_B_08,Q13_features,Q13_features,I like that I can ask for a specific theorem and it gives it to me instead of wasting time looking for it
+T3,Course B,T3_B_08,Q14_equity,Q14_equity,"Yes, because I usually struggle with English and AI has helped understand better what we are doing in class"
+T3,Course B,T3_B_08,Q15_critthink,Q15_critthink,"Sometimes yes, because it would spit out the answer but if I ask with the right prompt it helps me think"
+T3,Course B,T3_B_09,Q12_balance,Q12_balance,"Sometimes, as a student, you are so stacked with assignments and homework that you just want to get it out of the way. The AI tools have helped with completing assignments quickly and on time, but it hinders the learning process at the same time. Now, if you actually take time to let it teach you and help you through concepts, it helps in the our success; however, many students unfortunately do not have the time for that."
+T3,Course B,T3_B_09,Q13_features,Q13_features,"I find it most help that I could ask the AI tutor any question that I might feel too embarrassed to ask my actual professor. I also like that I can ""think out loud"" to the AI tutor and it will correct where my thought process might have gone wrong. I think a feature that needs improvement is not giving into the answer too quickly because you can ask it to not give you the answer, but after about two more chats expressing confusion, the AI tutor gives the full answer."
+T3,Course B,T3_B_09,Q14_equity,Q14_equity,"Yes, I do feel the AI tutor accommodates the needs of all students equally because it adapts to each individual user. If a student has a certain need or learning style, they could prompt the AI tutor and it will adapt to that."
+T3,Course B,T3_B_09,Q15_critthink,Q15_critthink,"It is has hindered me in the way that I feel the constant need of reassurance as I am working through a problem alone. Even if I am working through the problem correctly, I always want to make sure ""just in case."""
+T3,Course B,T3_B_09,Q16_suggest,Q16_suggest,"Sometimes the language it uses is a little too complex or it overloads you with too much information. Unless prompted to simplify or change that, the AI tutor does not address that."
+T3,Course B,T3_B_10,Q12_balance,Q12_balance,AI tools help me do my homework a lot faster because I don't have to search all my notes to look for theorems or formulas when I can just ask AI to provide it for me
+T3,Course B,T3_B_10,Q13_features,Q13_features,What I find most helpful is when AI shows me the step by step how to solving a problem.
+T3,Course B,T3_B_10,Q14_equity,Q14_equity,"Yes, because everyone can access AI so easily nowadays."
+T3,Course B,T3_B_10,Q15_critthink,Q15_critthink,Using the AI tutor helps me solve problems independently by asking AI to show me practice questions.
+T3,Course B,T3_B_10,Q16_suggest,Q16_suggest,None
+T3,Course B,T3_B_11,Q12_balance,Q12_balance,"It helps recall a lot of things like definition, formulas and even symbols especially when it came to not being time consuming looking through the notes."
+T3,Course B,T3_B_11,Q13_features,Q13_features,"It was helpful, sometimes it gave me the answer and not all the steps. It would sometime skip steps. It helps with showing me the specific steps I needed to do the problems on my own like the big picture."
+T3,Course B,T3_B_11,Q14_equity,Q14_equity,"Yes, because it would rephrase the problem into simpler word and even give me definition to certain phrases not referring to math."
+T3,Course B,T3_B_11,Q15_critthink,Q15_critthink,Its help with clarifying my thoughts and answers to flow and make sense because my answer was all over the place and didn't make sense when i would go back to my notes.
+T3,Course B,T3_B_11,Q16_suggest,Q16_suggest,None that I can think of at the moment!
+T3,Course B,T3_B_12,Q12_balance,Q12_balance,ChatGPT has been extremely helpful with my difficult schedule.
+T3,Course B,T3_B_12,Q13_features,Q13_features,The most helpful thing about the AI tutor was that the teaching style and notation was exactly like the professor's. I did have one issue where the tutor would not/could not explain the reasoning behind using a certain method/reaching a certain conclusion because it would only refer to the professor's notes and the professor did not provide the reasoning.
+T3,Course B,T3_B_12,Q14_equity,Q14_equity,yes
+T3,Course B,T3_B_12,Q15_critthink,Q15_critthink,It has really helped me think critically. There have been many times where I have questioned its results and had to argue with it.
+T3,Course B,T3_B_12,Q16_suggest,Q16_suggest,I think they will get better with more use. each version Dr. Y has provided has improved.
+T3,Course B,T3_B_13,Q12_balance,Q12_balance,"AI tools such as ChatGPT reduce time for me flipping through my textbook looking for the certain theorems and definition that I need to solve a problem. Sometimes I forget and just need to recall it. And it has been very helpful in times like these to succeed in solving a problem. 
+
+ 
+
+Just like how we once refer to the internet and phones as the ""answers to our hands"" with a simple search, the AI tools narrow down what we need to search and go through that is relevant to the conversations we have with it."
+T3,Course B,T3_B_13,Q13_features,Q13_features,"I liked how it refers to relevant definitions, theorems, and guides us into solving the problems. 
+
+An example is when we had to find the MLE which is a way to estimate the value of an unknown parameter that is most likely.
+
+ 
+
+Without giving us the solution, when given a problem about finding MLE, it gives us the way of finding the MLE."
+T3,Course B,T3_B_13,Q14_equity,Q14_equity,"I feel as if the AI tutor accommodates the needs of all students equally. In some problems, I have troubles understand what is given and what its asking to do. And I have the AI tutor explain to me what is going on in the question sometimes to better comprehend and understand the question. However, in few cases, it still makes it unclear due to the complexity of the question."
+T3,Course B,T3_B_13,Q15_critthink,Q15_critthink,"I believe it has both helped and hindered people's ability to recall information and build cognitive roadmaps. 
+
+ 
+
+It has helped me because sometimes the AI tutor provides a step by step guide that helps me understand the material more than me referring to my class notes.
+
+ 
+
+However, due to the quick access and guidance of these AI tools, it sometimes feel like im offloading my memory to the AI and rely on it. This hinders my learning because im overly relying on it for guidance and too lazy to put actual practice and test my mind."
+T3,Course B,T3_B_13,Q16_suggest,Q16_suggest,"Sometimes when we have it refers to a particular question in a textbook, the AI gives a totally different question/problem. 
+
+ 
+
+Like if we were to ask it to show or produce the question from the pdf or textbook in a certain chapter/section and question/problem number that covers certain concepts, it gives a completely different question that covers different concepts."
+T3,Course B,T3_B_14,Q12_balance,Q12_balance,When I am forced to use AI I feel like it takes up too much of my time
+T3,Course B,T3_B_14,Q13_features,Q13_features,N/A
+T3,Course B,T3_B_14,Q14_equity,Q14_equity,N/A
+T3,Course B,T3_B_14,Q15_critthink,Q15_critthink,I don’t like using it in class
+T3,Course B,T3_B_14,Q16_suggest,Q16_suggest,Not make it a requirement for the course
+T3,Course B,T3_B_15,Q12_balance,Q12_balance,I like to use AI when i’m in a time crunch and need help getting ideas for  research papers.
+T3,Course B,T3_B_15,Q13_features,Q13_features,I liked how detailed the steps were when i asked the ai how to solve it. I wish they wouldn’t give the answer right away other than that i enjoyed using ai.
+T3,Course B,T3_B_15,Q14_equity,Q14_equity,I think it does accommodate for everyone. If someone needs to use it they can always go to the library.
+T3,Course B,T3_B_15,Q15_critthink,Q15_critthink,Whenever i got stuck on how to give the likelihood for a function AI tutor would help me with what I should do next and give reasons as to why it’s done that way.
+T3,Course B,T3_B_15,Q16_suggest,Q16_suggest,Maybe notes incorporated in the chat along with examples to help students get an idea on how to solve problems.
+T3,Course B,T3_B_16,Q12_balance,Q12_balance,It has help me prepare and cut my study time in half answer any questions that came up before the next class meet
+T3,Course B,T3_B_16,Q13_features,Q13_features,the most helpful is the dinfition and exaplaintion given when answering questions
+T3,Course B,T3_B_16,Q14_equity,Q14_equity,"I do not believe, just depending on the subject, such as writing an essay or even answering a math question correctly. It does speed up the process of some stuff."
+T3,Course B,T3_B_16,Q15_critthink,Q15_critthink,n/a
+T3,Course B,T3_B_16,Q16_suggest,Q16_suggest,n/a
+T3,Course B,T3_B_17,Q12_balance,Q12_balance,They help because most times I don't have time or i don't want to go out if my way to see someone who can help. AI tutor is always readily available and easy to use
+T3,Course B,T3_B_17,Q13_features,Q13_features,Very good at explaining and uses great reasoning and easy ways to do problems
+T3,Course B,T3_B_17,Q14_equity,Q14_equity,yes the AI accommodates for anyone and doesn't cause any problems in my use
+T3,Course B,T3_B_17,Q15_critthink,Q15_critthink,I do better to solve questions on my own but sometimes it'll give too much information when i ask a question
+T3,Course B,T3_B_17,Q16_suggest,Q16_suggest,no improvements other than to help me do things independently

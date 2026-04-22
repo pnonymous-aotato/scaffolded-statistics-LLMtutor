@@ -1,0 +1,23 @@
+course,item_num,item_description,t1_mean,t1_pct_agree,t1_n,t2_mean,t2_pct_agree,t2_n,t3_mean,t3_pct_agree,t3_n,jt_z,jt_p,cliff_delta_t1_t3
+Course A,Q1,AI tutor enhances learning,4.00,85.7,14,3.50,66.7,12,4.08,76.9,13,0.23,0.817,0.07
+Course A,Q2,Encourages critical thinking,3.57,57.1,14,3.33,58.3,12,3.77,69.2,13,0.62,0.536,0.15
+Course A,Q3,Helps recall/apply prior concepts,3.93,85.7,14,3.67,58.3,12,4.31,92.3,13,1.21,0.226,0.33
+Course A,Q4,User-friendly and accessible,4.00,78.6,14,3.92,75.0,12,4.31,92.3,13,0.99,0.321,0.24
+Course A,Q5,Feedback as helpful as instructor,3.71,71.4,14,3.75,66.7,12,4.08,84.6,13,0.94,0.347,0.23
+Course A,Q6,Instructor prompts help use of AI tutor,3.86,71.4,14,3.83,75.0,12,4.23,84.6,13,1.02,0.309,0.24
+Course A,Q7,Supports learning regardless of background,4.07,92.9,14,3.83,75.0,12,3.77,61.5,13,-0.77,0.439,-0.19
+Course A,Q8,Feel prepared before lecture,3.43,57.1,14,3.42,41.7,12,4.08,76.9,13,1.55,0.122,0.39
+Course A,Q9,Can understand examples in lecture,3.71,78.6,14,3.58,58.3,12,4.23,92.3,13,1.51,0.132,0.38
+Course A,Q10,Reduces need for additional resources,3.86,71.4,14,3.67,58.3,12,4.15,92.3,13,0.94,0.347,0.24
+Course A,Q11,Aware of university AI integration efforts,3.79,64.3,14,3.42,50.0,12,4.00,76.9,13,0.61,0.545,0.16
+Course B,Q1,AI tutor enhances learning,3.94,88.2,17,4.14,85.7,14,4.06,82.4,17,0.74,0.460,0.15
+Course B,Q2,Encourages critical thinking,3.65,64.7,17,3.86,78.6,14,3.76,76.5,17,0.69,0.489,0.13
+Course B,Q3,Helps recall/apply prior concepts,4.24,82.4,17,4.36,100.0,14,4.18,82.4,17,-0.27,0.791,-0.05
+Course B,Q4,User-friendly and accessible,4.18,82.4,17,4.50,92.9,14,4.41,94.1,17,0.83,0.405,0.17
+Course B,Q5,Feedback as helpful as instructor,3.71,64.7,17,3.29,35.7,14,3.59,52.9,17,-0.46,0.643,-0.08
+Course B,Q6,Instructor prompts help use of AI tutor,4.00,82.4,17,4.07,78.6,14,4.06,76.5,17,0.25,0.805,0.05
+Course B,Q7,Supports learning regardless of background,4.00,82.4,17,4.43,100.0,14,4.18,88.2,17,0.23,0.820,0.06
+Course B,Q8,Feel prepared before lecture,3.24,35.3,17,3.36,42.9,14,3.76,64.7,17,1.72,0.085,0.31
+Course B,Q9,Can understand examples in lecture,3.76,64.7,17,3.86,78.6,14,3.82,70.6,17,0.33,0.740,0.07
+Course B,Q10,Reduces need for additional resources,3.65,58.8,17,3.93,64.3,14,3.59,64.7,17,0.11,0.910,0.02
+Course B,Q11,Aware of university AI integration efforts,4.41,94.1,17,4.57,100.0,14,4.47,94.1,17,0.28,0.776,0.06

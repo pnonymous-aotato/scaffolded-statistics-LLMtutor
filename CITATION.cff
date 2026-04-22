@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the accompanying paper."
+title: "SMARTS: Scaffolded LLM Tutors in Statistics Education — Supplementary Materials"
+type: software
+authors:
+  - family-names: author
+    given-names: author
+    affiliation: "California State University, redacted"
+  # Add other co-authors here with the same structure
+license: CC-BY-4.0
+repository-code: "https://github.com/{{GITHUB_ORG}}/smarts-statistics-education"
+keywords:
+  - statistics education
+  - large language models
+  - tutoring systems
+  - prompt engineering
+  - scaffolded instruction
+  - SMARTS framework
+  - FRAME protocol
+preferred-citation:
+  type: article
+  title: "From Answer Generators to Thinking Partners: Scaffolded LLM Tutors in Statistics Education"
+  authors:
+    - family-names: author
+      given-names: author
+      affiliation: "California State University, redacted"
+  journal: "Journal of Statistics and Data Science Education"
+  year: 2026
+  # DOI to be added on acceptance
+  # doi: 10.1080/26939169.XXXX.XXXXXXX
+version: "1.0.0-revision1"
+date-released: 2026-04-22

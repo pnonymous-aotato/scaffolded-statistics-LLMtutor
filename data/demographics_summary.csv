@@ -1,0 +1,14 @@
+# column,description
+# course,Course A (Course A) or Course B (Course B)
+# n_enrolled,Number of students enrolled
+# n_consented,Number of students who consented to participate in the survey
+# n_demographic_response,Number of respondents to the demographic survey
+# n_t1_response,Number of respondents to the T1 (baseline) AI Use Survey
+# n_t2_response,Number of respondents to the T2 (midterm) AI Use Survey
+# n_t3_response,Number of respondents to the T3 (endterm) AI Use Survey
+#
+# Paper reference: §6.3, §7.1, Table 3
+# Status: PLACEHOLDER — actual data to be populated before publication
+course,n_enrolled,n_consented,n_demographic_response,n_t1_response,n_t2_response,n_t3_response
+Course A,15,15,14,14,12,13
+Course B,18,18,18,17,14,17

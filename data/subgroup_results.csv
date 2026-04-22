@@ -1,0 +1,9 @@
+label,course,g1_name,g1_n,g1_mean,g1_median,g1_plus,g1_zero,g1_minus,g2_name,g2_n,g2_mean,g2_median,g2_plus,g2_zero,g2_minus,U,p,r_bs,ci_lo,ci_hi
+A1: Hispanic/Latino × Q7 equity,A,Hispanic/Latino,8,-0.125,0.0,1,6,1,Non-Hispanic,5,-0.6,-1,1,1,3,26.0,0.435,0.3,-0.4,1.0
+A1: Hispanic/Latino × Q7 equity,B,Hispanic/Latino,10,0.3,0.0,3,6,1,Non-Hispanic,5,0.0,0,1,3,1,29.5,0.679,0.18,-0.38,0.66
+A2: Prior AI use × composite Q1-Q11,A,Prior AI user,8,0.284,0.182,4,3,1,No prior AI,5,0.309,0.636,3,0,2,17.0,0.724,-0.15,-1.0,0.65
+A2: Prior AI use × composite Q1-Q11,B,Prior AI user,14,0.026,0.091,8,1,5,No prior AI,1,0.364,0.364,1,0,0,3.5,0.667,-0.5,-0.857,-0.071
+A3: English primary × Q2 crit think.,A,English,9,0.111,0,4,3,2,Other,4,0.5,0.5,2,2,0,15.0,0.71,-0.167,-0.667,0.444
+A3: English primary × Q2 crit think.,B,English,10,0.1,0.0,2,7,1,Other,5,0.2,0,2,2,1,22.5,0.859,-0.1,-0.72,0.52
+A4: Employment hrs × Q8 prep,A,Not employed,3,1.667,1,3,0,0,Working 20+ hrs,2,0.0,0.0,0,2,0,6.0,0.2,1.0,1.0,1.0
+A4: Employment hrs × Q8 prep,B,Working 20+ hrs,5,-0.6,-1,0,2,3,Working <20 hrs,3,0.0,0,1,1,1,4.5,0.571,-0.4,-1.0,0.4
